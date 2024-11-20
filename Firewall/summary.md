@@ -34,3 +34,13 @@ NAT changes the destination or source addresses of data packets as they pass thr
 
 
 10. Unified Threat Management (UTM) Firewalls- Unified Threat Management (UTM) Firewalls are a special type of stateful inspection firewalls with antivirus and intrusion prevention.
+
+
+Some popular Firewall products used in the cybersecurity industry are as follows:
+
+- Fortinet
+- Palo Alto Networks
+- SonicWall
+- Checkpoint
+- Juniper
+- pfsense
