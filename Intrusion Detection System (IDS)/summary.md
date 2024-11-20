@@ -3,6 +3,6 @@ IDSs can be software applications that are installed on endpoints or dedicated h
 
 <div>
   <p align="center">
-  <img src="pictures/diagram1.png" width="800"> 
+  <img src="diagram1.png" width="800"> 
   </p>
 </div>
