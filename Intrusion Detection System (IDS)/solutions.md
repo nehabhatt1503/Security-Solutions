@@ -7,4 +7,5 @@ Question File: zeek-http.log.zip
 2. What is the FTP command used for file transfer according to the given Zeek IDS FTP log?
 
 Question File: zeek-ftp.log.zip
-![image](https://github.com/user-attachments/assets/a7812079-d5eb-4110-808d-a1be2bf1fad4)
+
+# ![image](https://github.com/user-attachments/assets/a7812079-d5eb-4110-808d-a1be2bf1fad4)
