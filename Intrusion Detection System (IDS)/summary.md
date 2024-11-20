@@ -12,7 +12,7 @@
 ## Why Are Intrusion Detection Systems (IDS) Important?
 An intrusion detection system provides an extra layer of protection, making it a critical element of an effective cybersecurity strategy. You can use it alongside your other cybersecurity tools to catch threats that can penetrate your primary defenses. So even if your main system fails, you are still alerted to the presence of a threat. A healthcare organization, for example, can deploy an IDS to signal to the IT team that a range of threats have infiltrated its network, including those that have managed to bypass its firewalls. In this way, the IDS helps the organization stay compliant with data security regulations.
 
-> Some popular IDS products used in the cybersecurity industry are as follows:
+`Some popular IDS products used in the cybersecurity industry are as follows:`
 
 - Zeek/Bro
 - Snort
