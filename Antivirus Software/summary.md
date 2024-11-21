@@ -9,7 +9,7 @@ Some  of the critical functions of antivirus software:
 3. Destruction/Removal of Viruses: Antivirus software takes action to remove or quarantine the malicious files if malware is detected. This process helps prevent further damage and protects the system and data.
 4. Monitoring and Scanning: Antivirus programs often provide options for on-demand or scheduled scans of the entire system, specific drives, or individual files and folders. Scans help identify and eliminate potential threats that may have infiltrated the system.
 
-How does antivirus software work?
+## How does antivirus software work?
 
 - Signature-Based Detection: Antivirus software programs maintain a database of known malware signatures. These signatures are unique characteristics or patterns that can identify specific malware. When you run a virus scan, the antivirus software compares the files on your computer against its signature database. If a file matches a known malware signature, it is flagged as malicious.
 - Heuristic-Based Detection: Antivirus software also uses heuristics to identify potentially malicious behavior or characteristics that may not be explicitly defined in the signature database.
