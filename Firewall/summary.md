@@ -11,6 +11,7 @@ NAT changes the destination or source addresses of data packets as they pass thr
   <img src="firewall.png" width="800"> 
   </p>
 </div>
+
 ## Types of Firewalls
 
 1. Application-Level Gateways (Proxy Firewalls)- Application-Level Gateways are the types of firewalls that function at the application layer between two end systems. Unlike basic firewalls, it captures and analyzes packets in the application layer according to the OSI model.
