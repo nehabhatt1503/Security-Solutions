@@ -1,16 +1,16 @@
 # Firewall
 
 A firewall is a network security device designed to monitor, filter, and control incoming and outgoing network traffic based on predetermined security rules. The primary purpose of a firewall is to establish a barrier between a trusted internal network and untrusted external networks.
+
+* 🗺️ Firewall Functions: Network Address Translation (NAT) and Virtual Private Network (VPN) 
+
+NAT changes the destination or source addresses of data packets as they pass through a firewall. This allows multiple devices to connect to the internet using the same IP address, which helps protect the private network from direct exposure to external threats. A VPN is a type of proxy server. Therefore, It serves as a barrier between a computer or network and the internet, receiving all web requests before forwarding them to the network.
+
 <div>
   <p align="center">
   <img src="firewall.png" width="800"> 
   </p>
 </div>
-
-## Firewall Functions: Network Address Translation (NAT) and Virtual Private Network (VPN) 
-
-NAT changes the destination or source addresses of data packets as they pass through a firewall. This allows multiple devices to connect to the internet using the same IP address, which helps protect the private network from direct exposure to external threats. A VPN is a type of proxy server. Therefore, It serves as a barrier between a computer or network and the internet, receiving all web requests before forwarding them to the network.
-
 ## Types of Firewalls
 
 1. Application-Level Gateways (Proxy Firewalls)- Application-Level Gateways are the types of firewalls that function at the application layer between two end systems. Unlike basic firewalls, it captures and analyzes packets in the application layer according to the OSI model.
