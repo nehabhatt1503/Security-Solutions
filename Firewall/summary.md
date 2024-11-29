@@ -43,9 +43,9 @@ NAT changes the destination or source addresses of data packets as they pass thr
 
 Some popular Firewall products used in the cybersecurity industry are as follows:
 
-- Fortinet
-- Palo Alto Networks
-- SonicWall
-- Checkpoint
-- Juniper
-- pfsense
+* 🚀 Fortinet
+* 🚀 Palo Alto Networks
+* 🚀 SonicWall
+* 🚀 Checkpoint
+* 🚀 Juniper
+* 🚀 pfsense
